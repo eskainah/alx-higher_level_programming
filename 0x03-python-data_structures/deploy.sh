@@ -1,4 +1,4 @@
-#!/bash/sh
-git add .
-git commit -m "Python Data Structures"
-git push 
+#!/bin/bash
+git add . 
+git commit -m "Third Python script"
+git push
